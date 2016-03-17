@@ -53,19 +53,31 @@
 		<ol class="carousel-indicators">
 			<li data-target="#carousel-id" data-slide-to="0" class=""></li>
 			<li data-target="#carousel-id" data-slide-to="1" class=""></li>
-			<li data-target="#carousel-id" data-slide-to="2" class="active"></li>
+			<li data-target="#carousel-id" data-slide-to="2" class=""></li>
+			<li data-target="#carousel-id" data-slide-to="3" class=""></li>
+			<li data-target="#carousel-id" data-slide-to="4" class="active"></li>
 		</ol>
 		<div class="carousel-inner">
 			<div class="item">
-				<img data-src="public/imagenes/1.jpg" alt="First slide" src="public/imagenes/1.jpg">
+				<img data-src="public/imagenes/1.jpg"  width ="1200" alt ="100" alt="First slide" src="public/imagenes/1.jpg">
 				
 			</div>
 			<div class="item">
-				<img data-src="public/imagenes/2.jpg" alt="Second slide" src="public/imagenes/2.jpg">
+				<img data-src="public/imagenes/2.jpg"  width ="1200" alt="Second slide" src="public/imagenes/2.jpg">
+				
+			</div>
+
+			<div class="item">
+				<img data-src="public/imagenes/3.jpg"  width ="1200" alt="Second slide" src="public/imagenes/3.jpg">
+				
+			</div>
+
+			<div class="item">
+				<img data-src="public/imagenes/4.jpg"  width ="1200" alt="Second slide" src="public/imagenes/4.jpg">
 				
 			</div>
 			<div class="item active">
-				<img data-src="public/imagenes/3.jpg" alt="Third slide" src="public/imagenes/3.jpg">
+				<img data-src="public/imagenes/5.jpg"  width ="1200" alt="Third slide" src="public/imagenes/5.jpg">
 				
 			</div>
 		</div>
@@ -73,7 +85,40 @@
 		<a class="right carousel-control" href="#carousel-id" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
 	</div>
 </div>
+	<video autobuffer autoloop loop controls>
+		<source src="public/video/Chahu Main Yaa Naa   Aashiqui 2 (1080p HD Song)[1].mp4" width="450" alt="450">
+		
+	</video>
+	<video autobuffer autoloop loop controls>
+		<source src="public/video/Lee Seung Gi(이승기) _ Return(되돌리다) MV[1].mp4">
+		
+	</video>
+	</video>
+	<video autobuffer autoloop loop controls>
+		<source src="public/video/빅스 (VIXX)   Error MV[1].mp4">
+		
+	</video>
+	<lis>
+	<audio autobuffer autoloop loop controls>
+		<source src="public/musica/T ARA   Don't leave, 티아라   떠나지마, Music Core 20120707.mp3">
+		
+	</audio>
+	</lis>
+	<lis>
+	<audio autobuffer autoloop loop controls>
+		<source src="public/musica/하성   RUN [무림학교 OST Part1].mp3">
+		
+	</audio>
+	</lis>
+	<lis>
+	<audio autobuffer autoloop loop controls>
+		<source src="public/musica/Pablo Alboran   Quién (Videoclip oficial).mp3">
+		
+	</audio>
+	</lis>
 	
+	
+
 	<script src="public/js/jquery-1.12.1.js"></script>
 	<script src="public/js/bootstrap.js"></script>
 </body>
