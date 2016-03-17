@@ -37,7 +37,7 @@ index.php<!DOCTYPE html>
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="#">informacion</a></li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown"> informacion2016 <b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="#">Action</a></li>
 							<li><a href="#">Another action</a></li>
